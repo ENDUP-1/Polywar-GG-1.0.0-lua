@@ -3,7 +3,7 @@ Mod Menu Polywar For game guardian By ENDUP
 Features:
 
 
- * Unlock Skins
+* Unlock Skins
  * Unlock Characters
  * Hack Level x Unlock Guns
  * Title and Photo Profile Set
@@ -20,14 +20,18 @@ Features:
  * XP Boost
  * Quick Health Recovery and Health Editing
  * Win Game
+ * Back gone Case 
  * FOV Hack
  * Autoplay
  * Gloves Set
  * Hack Level Guns
+ * Hide id
  * Fast Reload x Fast Scoop
  * Damage Hack
  * Speed Bullet
  * Hack Rank Points
  * Price Weapons in Bomb Mode
+
+
 
 
